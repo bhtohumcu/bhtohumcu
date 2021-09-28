@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Burak Hakan Tohumcu. I am a freshman at Bilkent CS with the ID number 22101845.
+- 🌱 I’m currently learning Java.
+- 📫 You can reach me via my email b.hakantohumcu@gmail.com
